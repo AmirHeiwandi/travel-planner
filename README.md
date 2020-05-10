@@ -1,4 +1,4 @@
-# News Evaluate Project
+# Travel Planner
 
 ## Overview
 Fifth and last project in the Udacity Nanodegree Program "Front End Developer".
