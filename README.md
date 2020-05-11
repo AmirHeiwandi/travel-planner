@@ -15,8 +15,10 @@ The project uses 3 differens external APIs:
 
 1. Locate yourself to the root project folder and install all the dependencies by using 'npm install'
 
-2. Start the server by running the command 'npm run start' in the terminal.
+2. Make a file called exactly ".env" inside the root directory. Inside the file you should declare the enviroenmnet variables just like in the "example.env"
 
-3. Go to website localhost:8082.
+3. Start the server by running the command 'npm run start' in the terminal.
 
-4. Type in the city of your choice and planed tripdate.
+4. Go to website localhost:8082.
+
+5. Type in the city of your choice and planed tripdate.
